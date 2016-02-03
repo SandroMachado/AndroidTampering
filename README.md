@@ -1,4 +1,4 @@
-# AndroidTampering 
+# AndroidTampering
 [![Release](https://jitpack.io/v/SandroMachado/AndroidTampering.svg)](https://jitpack.io/#SandroMachado/AndroidTampering)
 
 AndroidTampering is a library that provides an extra layer of security to your Android application. This library protects your application against simple tampering attacks. **Please note that this protection methods can also be hacked.** So, besides the tampering protection, don't forget to add all the other security recommendations like [ProGuard](http://developer.android.com/tools/help/proguard.html), [patching the Security Provider with ProviderInstaller](http://developer.android.com/training/articles/security-gms-provider.html#patching)...
@@ -23,7 +23,7 @@ Them include the openalpr-android dependency:
 dependencies {
 
     // ... other dependencies here.    	
-    compile 'com.github.SandroMachado:AndroidTampering:1.0.0'
+    compile 'com.github.SandroMachado:AndroidTampering:1.0.2'
 }
 ```
 

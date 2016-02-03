@@ -1,6 +1,13 @@
 # Changelog
 
-## [1.0.1](https://github.com/SandroMachado/AndroidTampering/tree/1.0.1) (2016-02-02)
+## [1.0.2](https://github.com/SandroMachado/AndroidTampering/tree/1.0.2) (2016-02-03)
+[Full Changelog](https://github.com/SandroMachado/AndroidTampering/compare/1.0.1...1.0.2)
+
+**Merged pull requests:**
+
+- Update gradle version [\#4](https://github.com/SandroMachado/AndroidTampering/pull/4) ([SandroMachado](https://github.com/SandroMachado))
+
+## [1.0.1](https://github.com/SandroMachado/AndroidTampering/tree/1.0.1) (2016-02-03)
 [Full Changelog](https://github.com/SandroMachado/AndroidTampering/compare/1.0.0...1.0.1)
 
 **Closed issues:**
