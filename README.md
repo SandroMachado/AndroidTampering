@@ -52,7 +52,7 @@ Please note that this certificate signature contains a `\n` at the end.
 ### Add tampering protection
 
 ```Java
-AndroidTamperingProtection androidTamperingProtection = AndroidTamperingProtection.Builder(context, "yweraaaaaaaaggggDfsa6egkjjI\n")
+AndroidTamperingProtection androidTamperingProtection = new AndroidTamperingProtection.Builder(context, "yweraaaaaaaaggggDfsa6egkjjI\n")
     .installOnlyFromPlayStore(true) // By default is set to false.
     .build();
 
