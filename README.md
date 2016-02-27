@@ -61,3 +61,6 @@ if (!androidTamperingProtection.validate()) {
 }
 ```
 
+# Applications that use AndroidTampering
+
+* [Aerial](https://play.google.com/store/apps/details?id=com.sandro.aerial)
