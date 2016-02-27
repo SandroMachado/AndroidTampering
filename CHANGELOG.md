@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.3](https://github.com/SandroMachado/AndroidTampering/tree/1.0.3) (2016-02-27)
+[Full Changelog](https://github.com/SandroMachado/AndroidTampering/compare/1.0.2...1.0.3)
+
+**Closed issues:**
+
+- log message not shown in logcat [\#5](https://github.com/SandroMachado/AndroidTampering/issues/5)
+
+**Merged pull requests:**
+
+- Add Aerial to the applications list [\#8](https://github.com/SandroMachado/AndroidTampering/pull/8) ([SandroMachado](https://github.com/SandroMachado))
+- Fix get certificate signature method [\#7](https://github.com/SandroMachado/AndroidTampering/pull/7) ([SandroMachado](https://github.com/SandroMachado))
+- Update README.md [\#6](https://github.com/SandroMachado/AndroidTampering/pull/6) ([SandroMachado](https://github.com/SandroMachado))
+
 ## [1.0.2](https://github.com/SandroMachado/AndroidTampering/tree/1.0.2) (2016-02-03)
 [Full Changelog](https://github.com/SandroMachado/AndroidTampering/compare/1.0.1...1.0.2)
 
