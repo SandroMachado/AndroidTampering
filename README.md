@@ -42,10 +42,8 @@ AndroidTamperingProtectionUtils.getCertificateSignature(context);
 
 Check your logcat for something like:
 ```
-01-12 01:16:15.965 32487-32487/com.sandro.test D/TAMPERING_PROTECTION: ___________
-                                                                                 yweraaaaaaaaggggDfsa6egkjjI=
-
-                                                                                 ___________
+01-12 01:16:15.965 32487-32487/com.sandro.test D/TAMPERING_PROTECTION:**yweraaaaaaaaggggDfsa6egkjjI=
+**
 ```
 Please note that this certificate signature contains a `\n` at the end.
 

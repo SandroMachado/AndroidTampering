@@ -35,7 +35,7 @@ public class AndroidTamperingProtectionUtils {
 
                 md.update(signature.toByteArray());
 
-                Log.d("TAMPERING_PROTECTION", "\n\n___________\n" +  Base64.encodeToString(md.digest(), Base64.DEFAULT) + "\n___________\n\n");
+                Log.d("TAMPERING_PROTECTION", "**" +  Base64.encodeToString(md.digest(), Base64.DEFAULT) + "**");
             }
         } catch (Exception exception) {
             Log.d("TAMPERING_PROTECTION", exception.getStackTrace().toString());
