@@ -23,7 +23,8 @@ Them include the openalpr-android dependency:
 dependencies {
 
     // ... other dependencies here.    	
-    compile 'com.github.SandroMachado:AndroidTampering:1.0.2'
+    compile 'com.github.SandroMachado:AndroidTampering:1.0.3'
+
 }
 ```
 
